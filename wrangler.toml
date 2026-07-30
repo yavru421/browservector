@@ -1,0 +1,10 @@
+name = "browservector"
+compatibility_date = "2026-07-30"
+
+[build]
+command = "bash build.sh"
+
+[assets]
+directory = "output/wwwroot"
+not_found_handling = "single-page-application"
+include = ["**/*"]
