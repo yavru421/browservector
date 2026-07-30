@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BrowserVector.App/BrowserVector.App.csproj" />
+    <Project Path="src/BrowserVector.Core/BrowserVector.Core.csproj" />
+    <Project Path="src/BrowserVector.WebGPU/BrowserVector.WebGPU.csproj" />
+  </Folder>
+</Solution>

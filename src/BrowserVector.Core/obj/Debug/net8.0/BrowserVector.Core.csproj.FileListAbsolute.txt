@@ -1,0 +1,11 @@
+C:\dev\browservector\src\BrowserVector.Core\bin\Debug\net8.0\BrowserVector.Core.deps.json
+C:\dev\browservector\src\BrowserVector.Core\bin\Debug\net8.0\BrowserVector.Core.dll
+C:\dev\browservector\src\BrowserVector.Core\bin\Debug\net8.0\BrowserVector.Core.pdb
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\BrowserVector.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\BrowserVector.Core.AssemblyInfoInputs.cache
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\BrowserVector.Core.AssemblyInfo.cs
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\BrowserVector.Core.csproj.CoreCompileInputs.cache
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\BrowserVector.Core.dll
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\refint\BrowserVector.Core.dll
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\BrowserVector.Core.pdb
+C:\dev\browservector\src\BrowserVector.Core\obj\Debug\net8.0\ref\BrowserVector.Core.dll

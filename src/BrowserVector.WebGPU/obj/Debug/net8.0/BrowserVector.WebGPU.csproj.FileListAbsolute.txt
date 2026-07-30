@@ -1,0 +1,15 @@
+C:\dev\browservector\src\BrowserVector.WebGPU\bin\Debug\net8.0\BrowserVector.WebGPU.deps.json
+C:\dev\browservector\src\BrowserVector.WebGPU\bin\Debug\net8.0\BrowserVector.WebGPU.dll
+C:\dev\browservector\src\BrowserVector.WebGPU\bin\Debug\net8.0\BrowserVector.WebGPU.pdb
+C:\dev\browservector\src\BrowserVector.WebGPU\bin\Debug\net8.0\BrowserVector.Core.dll
+C:\dev\browservector\src\BrowserVector.WebGPU\bin\Debug\net8.0\BrowserVector.Core.pdb
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserVector.WebGPU.csproj.AssemblyReference.cache
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserVector.WebGPU.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserVector.WebGPU.AssemblyInfoInputs.cache
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserVector.WebGPU.AssemblyInfo.cs
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserVector.WebGPU.csproj.CoreCompileInputs.cache
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserV.54D5F35A.Up2Date
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserVector.WebGPU.dll
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\refint\BrowserVector.WebGPU.dll
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\BrowserVector.WebGPU.pdb
+C:\dev\browservector\src\BrowserVector.WebGPU\obj\Debug\net8.0\ref\BrowserVector.WebGPU.dll
