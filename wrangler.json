@@ -1,5 +1,9 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "browservector",
-  "pages_build_output_dir": "dist/wwwroot"
+  "pages_build_output_dir": "dist/wwwroot",
+  "build": {
+    "command": "dotnet publish src/BrowserVector.App/BrowserVector.App.csproj -c Release -o dist"
+  }
 }
+
